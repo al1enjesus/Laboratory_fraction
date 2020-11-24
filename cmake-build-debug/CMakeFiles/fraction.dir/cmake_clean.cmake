@@ -1,8 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/fraction.dir/fraction.cpp.obj"
-  "CMakeFiles/fraction.dir/main.cpp.obj"
+  "CMakeFiles/fraction.dir/fraction.cpp.o"
+  "CMakeFiles/fraction.dir/main.cpp.o"
   "fraction.exe"
-  "fraction.exe.manifest"
   "fraction.pdb"
   "libfraction.dll.a"
 )

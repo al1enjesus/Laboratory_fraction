@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\fraction.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\fraction.dir/objects.a @CMakeFiles\fraction.dir\objects1.rsp
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\fraction.dir/objects.a -Wl,--no-whole-archive  -o fraction.exe -Wl,--out-implib,libfraction.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\fraction.dir\linklibs.rsp
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/fraction.dir/main.cpp.o CMakeFiles/fraction.dir/fraction.cpp.o  -o fraction.exe -Wl,--out-implib,libfraction.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
